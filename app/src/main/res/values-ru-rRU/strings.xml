@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapsForYa</string>
+    <string name="need_permission">Требуется предоставить разрешение</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="empty">Пусто</string>
+    <string name="to_places">К точке</string>
+    <string name="map_fragment_title">Карта</string>
+    <string name="places_fragment_title">Точки</string>
+    <string name="enter_name">Введите название</string>
+    <string name="reduce">уменьшить</string>
+    <string name="increase">увеличить</string>
+    <string name="my_location">моё местоположение</string>
+</resources>
