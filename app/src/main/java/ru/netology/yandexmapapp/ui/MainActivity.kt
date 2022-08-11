@@ -8,7 +8,6 @@ import ru.netology.yandexmapapp.R
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        // TODO
         private const val MAPKIT_API_KEY = "PLACE_API_KEY_HERE"
     }
 
